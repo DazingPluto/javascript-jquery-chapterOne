@@ -1,0 +1,21 @@
+{
+  "name": "javascript-jquery-chapterone",
+  "version": "1.0.0",
+  "description": "Javascript and Jquery book chapter one notes and practice.",
+  "main": "chapterOnePractice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "chapterOne.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DazingPluto/javascript-jquery-chapterOne.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DazingPluto/javascript-jquery-chapterOne/issues"
+  },
+  "homepage": "https://github.com/DazingPluto/javascript-jquery-chapterOne#readme"
+}
