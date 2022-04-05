@@ -18,6 +18,8 @@
 // How do computers fit in with the world around them??
 // How do i write a script for a web page??
 
+// ---- first lesson on variables and how they are used ----
+
 // let today = new Date();
 // let hourNow = today.getHours();
 // let greeting;
@@ -32,18 +34,53 @@
 //     greeting = 'Welcome!';
 // }
 
-discount.write('<h3>' + greeting + '</h3>')
+// discount.write('<h3>' + greeting + '</h3>')
 
-let today = new Date()
-let hourNow = today.getHours();
-let greeting;
+// let today = new Date()
+// let hourNow = today.getHours();
+// let greeting;
 
-if (hourNow > 18) {
-    greeting = 'Good Evening';
-} else if ( hourNow > 12) {
-    greeting = 'Good Afternoon!';
-}else if ( hourNow > 0) {
-    greeting = 'Good Morning!';
-}else {
-    greeting = 'Welcome!';
-}
+// if (hourNow > 18) {
+//     greeting = 'Good Evening';
+// } else if ( hourNow > 12) {
+//     greeting = 'Good Afternoon!';
+// }else if ( hourNow > 0) {
+//     greeting = 'Good Morning!';
+// }else {
+//     greeting = 'Welcome!';
+// }
+
+// let today = new Date()
+// let hourNow = today.getHours();
+// let greeting;
+
+// if (hourNow > 18) {
+//     greeting = 'Good evening';
+// } else if ( hourNow > 12) {
+//     greeting = 'Good Afternoon!';
+// } else if ( hourNow > 0) {
+//     greeting = 'Good Morning';
+// } else {
+//     greeting = 'Welcome!';
+// }
+
+// discount.write('<h3>' + greeting + '</h3>')
+
+// let today = new Date()
+// let hourNow = today.getHours();
+// let greeting;
+
+// if(hourNow > 18) {
+//     greeting = "Good Evening";
+// } else if ( hourNow > 12 ) {
+//     greeting = "Good Afternoon";
+// } else if ( hourNow > 0 ) {
+//     greeting = "Good Morning";
+// } else {
+//     greeting = "Welcome!";
+// }
+
+/* Using a Variable to store a boolean */
+
+
+
